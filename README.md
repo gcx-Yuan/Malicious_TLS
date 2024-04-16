@@ -13,10 +13,10 @@ issn = {0167-4048},
 doi = {https://doi.org/10.1016/j.cose.2023.103300},   
 }
 
+# MCRe:A Unified Framework for Handling Malicious Traffic With Noise Labels Based on Multidimensional Constraint Representation  
 
 The code of 【MCRe】 could be find at https://github.com/gcx-Yuan/MCRe.  
 
-MCRe:A Unified Framework for Handling Malicious Traffic With Noise Labels Based on Multidimensional Constraint Representation
 
 @article{yuan2024mcre,  
 &emsp;title={MCRe: A Unified Framework for Handling Malicious Traffic With Noise Labels Based on Multidimensional Constraint Representation},  
